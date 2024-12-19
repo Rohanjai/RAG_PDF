@@ -24,7 +24,7 @@ Ensure the following tools are installed:
 1.	Clone the Repository:
 ```bash
 git clone https://github.com/Rohanjai/RAG_PDF.git
-cd rag-streamlit-app
+cd RAG_PDF
 ```
 
 2.	Install Dependencies:
